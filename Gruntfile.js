@@ -61,6 +61,11 @@ module.exports = function (grunt) {
           dot: true,
           src: [
             '**/*.map',
+            '**/*.js',
+            '!node_modules/**/*',
+            '!public/**/*',
+            '!**/*.es6.js',
+            '!Gruntfile.js',
             './*.tgz'
           ]
         }]
