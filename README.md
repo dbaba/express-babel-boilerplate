@@ -38,6 +38,6 @@ Node.js v0.12+
 
 ## "Fatal error: Port 35729 is already in use by another process."
 
-For Bash,
+For Linux/Unix users,
 
     $ killall -9 grunt
