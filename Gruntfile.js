@@ -86,7 +86,7 @@ module.exports = function (grunt) {
         options: {
           require: 'babel/register'
         },
-        src: ['test/**/*.js']
+        src: ['test/**/*.es6.js']
       }
     },
   };
