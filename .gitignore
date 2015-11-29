@@ -2,3 +2,6 @@ node_modules
 .grunt
 *.tgz
 *.log
+*.map
+*.js
+!*.es6.js
