@@ -1,7 +1,7 @@
 express + babel boilerplate
 ===
 
-express + babel web application boilerplate running on Node.js v0.12+.
+express + babel + sequelize web application boilerplate running on Node.js v0.12+.
 
 `grunt build` will transpile all *.es6.js files into *.js with source maps. The generated files are placed at the same place as their ES6 sources.
 
